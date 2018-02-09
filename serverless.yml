@@ -1,5 +1,5 @@
 # NOTE: update this with your service name
-service: serverless-es7-starter
+service: serverless-seed-demo
 
 # Use the serverless-webpack plugin to transpile ES6
 plugins:
